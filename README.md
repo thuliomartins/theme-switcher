@@ -6,6 +6,6 @@
 * CSS
 * Javascript
 
-<div>
-    <video src="assets/assets/result.mp4">
-</div>
+<p align="center">
+    <img src="assets\assets\to-readme\result-project.gif" width="470">
+</p align="center">
