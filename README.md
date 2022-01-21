@@ -6,6 +6,6 @@
 * CSS
 * Javascript
 
-<p align="center">
+<p align="left">
     <img src="assets\assets\to-readme\result-project.gif">
 </p>
