@@ -8,4 +8,4 @@
 
 <p align="center">
     <img src="assets\assets\to-readme\result-project.gif" width="470">
-</p align="center">
+</p>
